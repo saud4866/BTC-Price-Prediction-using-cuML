@@ -11,7 +11,7 @@ This project compares two GPU-accelerated models—**Random Forest Regressor** a
 | Library                    | `cuml.ensemble.RandomForestRegressor`         | `cuml.linear_model.LinearRegression`         |
 | Dataset                    | Bitcoin historical prices                     | BTCUSD 1-min data via Google Drive           |
 | Input Preprocessing        | MinMax Scaling                                | Standard Scaling                              |
-| Hardware                   | NVIDIA A100 (CUDA 12.4)                        | Colab GPU (CUDA-enabled)                     |
+| Hardware                   | NVIDIA A100 (CUDA 12.4)                        | NVIDIA A100 (CUDA 12.4)                     |
 
 ---
 
@@ -96,12 +96,6 @@ pip install cuml-cu12 pandas numpy
 
 This project may include third-party dependencies and is subject to their respective licenses.
 
----
-
-## 📬 Contact
-
-- **GitHub**: [YourProfile](https://github.com/YourProfile)
-- **Medium**: [bjarai546](https://medium.com/@bjarai546)
 
 ---
 
