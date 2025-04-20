@@ -57,7 +57,6 @@ r2 = r2_score(y_test, y_pred)
 | GPU Utilization | 0% (idle on infer)|
 | VRAM Usage      | 3.4GB / 40GB      |
 
-> Linear Regression's profiling was not available in the original notebook.
 
 ---
 
