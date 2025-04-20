@@ -30,6 +30,8 @@ This project compares two GPU-accelerated models—**Random Forest Regressor** a
 ## 📊 Performance Metrics
 
 ### ✅ Random Forest (cuML)
+The Mean Squared Error of 71,194,427.06 reflects an average prediction deviation consistent with the high volatility and scale of Bitcoin prices, and is considered reasonable within this forecasting context.
+
 | Metric                | Value          |
 |----------------------|----------------|
 | Mean Squared Error   | 71,194,427.06  |
